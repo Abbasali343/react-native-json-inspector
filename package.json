@@ -1,18 +1,31 @@
 {
-  "name": "react_native_json_inspector",
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "name": "react-native-json-inspector",
   "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A lightweight JSON viewer and inspector for React Native and Expo.",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "react-native",
+    "expo",
+    "json",
+    "json-viewer",
+    "json-inspector",
+    "typescript"
+  ],
+  "author": "Abbas Ali Akhtar",
   "license": "MIT",
-  "dependencies": {
-    "react": "^19.2.7",
-    "react-native": "^0.85.3",
-    "react-native-safe-area-context": "^5.8.0"
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.72.0"
   },
   "devDependencies": {
     "@types/react": "^19.2.16",
