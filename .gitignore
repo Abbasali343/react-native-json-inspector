@@ -1,0 +1,62 @@
+# dependencies
+
+node_modules/
+
+# Expo
+
+.expo/
+.expo-shared/
+
+# Metro
+
+.metro-health-check*
+
+# build outputs
+
+dist/
+build/
+lib/
+
+# logs
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# macOS
+
+.DS_Store
+
+# IDE
+
+.vscode/
+.idea/
+
+# TypeScript
+
+*.tsbuildinfo
+
+# Environment variables
+
+.env
+.env.local
+
+# Coverage
+
+coverage/
+
+# Android
+
+android/.gradle/
+android/app/build/
+
+# iOS
+
+ios/build/
+DerivedData/
+
+# Temporary files
+
+*.tmp
+*.temp

@@ -1,0 +1,22 @@
+{
+  "name": "react_native_json_inspector",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-native": "^0.85.3",
+    "react-native-safe-area-context": "^5.8.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.16",
+    "@types/react-native": "^0.72.8",
+    "typescript": "^6.0.3"
+  }
+}
