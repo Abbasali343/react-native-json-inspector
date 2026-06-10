@@ -5,7 +5,7 @@ import { JsonInspector } from "../src";
 const data = {
   user: {
     name: "Faizan",
-    age: 28,
+    age: 25,
     active: true,
   },
 };
