@@ -60,3 +60,7 @@ DerivedData/
 
 *.tmp
 *.temp
+
+# Editor swap files
+*.swp
+*.swo
